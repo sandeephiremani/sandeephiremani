@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeephiremani&label=Profile%20views&color=0e75b6&style=flat" alt="sandeephiremani" /> </p>
 
+- 🔭 I’m currently working on **Media Project**
+
+- 🌱 I’m currently learning **Python, Terraform, Ansible, GitHub Actions**
+
+- 💬 Ask me about **Java, AWS, Linux, Networking, Docker, K8S,**
+
 - 📫 How to reach me **mhsandeep55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
