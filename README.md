@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python, Terraform, Ansible, GitHub Actions**
 
-- 💬 Ask me about **Java, AWS, Linux, Networking, Docker, K8S,**
+- 💬 Ask me about **Java, AWS, Linux, Networking, Docker, K8S**
 
 - 📫 How to reach me **mhsandeep55@gmail.com**
 
